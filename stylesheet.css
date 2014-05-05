@@ -1,0 +1,795 @@
+/* line 2, stylesheet.scss */
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+/* line 2, stylesheet.scss */
+body {
+  margin: 0;
+}
+
+/* line 2, stylesheet.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+  display: block;
+}
+
+/* line 2, stylesheet.scss */
+audio, canvas, progress, video {
+  display: inline-block;
+  vertical-align: baseline;
+}
+
+/* line 2, stylesheet.scss */
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+
+/* line 2, stylesheet.scss */
+[hidden], template {
+  display: none;
+}
+
+/* line 2, stylesheet.scss */
+a {
+  background: 0 0;
+}
+
+/* line 2, stylesheet.scss */
+a:active, a:hover {
+  outline: 0;
+}
+
+/* line 2, stylesheet.scss */
+abbr[title] {
+  border-bottom: 1px dotted;
+}
+
+/* line 2, stylesheet.scss */
+b, strong {
+  font-weight: 700;
+}
+
+/* line 2, stylesheet.scss */
+dfn {
+  font-style: italic;
+}
+
+/* line 2, stylesheet.scss */
+h1 {
+  font-size: 2em;
+  margin: .67em 0;
+}
+
+/* line 2, stylesheet.scss */
+mark {
+  background: #ff0;
+  color: #000;
+}
+
+/* line 2, stylesheet.scss */
+small {
+  font-size: 80%;
+}
+
+/* line 2, stylesheet.scss */
+sub, sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+/* line 2, stylesheet.scss */
+sup {
+  top: -.5em;
+}
+
+/* line 2, stylesheet.scss */
+sub {
+  bottom: -.25em;
+}
+
+/* line 2, stylesheet.scss */
+img {
+  border: 0;
+}
+
+/* line 2, stylesheet.scss */
+svg:not(:root) {
+  overflow: hidden;
+}
+
+/* line 2, stylesheet.scss */
+figure {
+  margin: 1em 40px;
+}
+
+/* line 2, stylesheet.scss */
+hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+}
+
+/* line 2, stylesheet.scss */
+pre {
+  overflow: auto;
+}
+
+/* line 2, stylesheet.scss */
+code, kbd, pre, samp {
+  font-family: monospace,monospace;
+  font-size: 1em;
+}
+
+/* line 2, stylesheet.scss */
+button, input, optgroup, select, textarea {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+
+/* line 2, stylesheet.scss */
+button {
+  overflow: visible;
+}
+
+/* line 2, stylesheet.scss */
+button, select {
+  text-transform: none;
+}
+
+/* line 2, stylesheet.scss */
+button, html input[type=button], input[type=reset], input[type=submit] {
+  -webkit-appearance: button;
+  cursor: pointer;
+}
+
+/* line 2, stylesheet.scss */
+button[disabled], html input[disabled] {
+  cursor: default;
+}
+
+/* line 2, stylesheet.scss */
+button::-moz-focus-inner, input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+/* line 2, stylesheet.scss */
+input {
+  line-height: normal;
+}
+
+/* line 2, stylesheet.scss */
+input[type=checkbox], input[type=radio] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+/* line 2, stylesheet.scss */
+input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer-spin-button {
+  height: auto;
+}
+
+/* line 2, stylesheet.scss */
+input[type=search] {
+  -webkit-appearance: textfield;
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+}
+
+/* line 2, stylesheet.scss */
+input[type=search]::-webkit-search-cancel-button, input[type=search]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+/* line 2, stylesheet.scss */
+fieldset {
+  border: 1px solid silver;
+  margin: 0 2px;
+  padding: .35em .625em .75em;
+}
+
+/* line 2, stylesheet.scss */
+legend {
+  border: 0;
+  padding: 0;
+}
+
+/* line 2, stylesheet.scss */
+textarea {
+  overflow: auto;
+}
+
+/* line 2, stylesheet.scss */
+optgroup {
+  font-weight: 700;
+}
+
+/* line 2, stylesheet.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 2, stylesheet.scss */
+td, th {
+  padding: 0;
+}
+
+/* line 5, stylesheet.scss */
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 10, stylesheet.scss */
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+/* line 18, stylesheet.scss */
+* html .clearfix {
+  zoom: 1;
+}
+
+/* IE6 */
+/* line 19, stylesheet.scss */
+*:first-child + html .clearfix {
+  zoom: 1;
+}
+
+/* IE7 */
+/* line 22, stylesheet.scss */
+html {
+  font-size: 62.5%;
+  font-family: 'helvetica', sans-serif;
+  font-weight: normal;
+}
+
+/* line 29, stylesheet.scss */
+h1 {
+  text-align: center;
+  padding-top: 39px;
+  font-weight: normal;
+}
+
+/* line 35, stylesheet.scss */
+h2 {
+  font-size: 4.4rem;
+  color: #302434;
+  font-weight: normal;
+}
+
+/* line 41, stylesheet.scss */
+h3 {
+  font-size: 2.6rem;
+  color: #414042;
+  margin: 0 0 10px 0;
+  font-weight: normal;
+}
+
+/* line 48, stylesheet.scss */
+h4 {
+  font-size: 1.6rem;
+  color: #797b7e;
+  margin: 2px;
+  font-weight: normal;
+}
+
+/* line 55, stylesheet.scss */
+h5 {
+  font-size: 5.0rem;
+  color: #414042;
+  font-weight: normal;
+}
+
+/* line 61, stylesheet.scss */
+p {
+  font-size: 1.3rem;
+  color: #797b7e;
+  font-weight: normal;
+}
+
+/* line 68, stylesheet.scss */
+a {
+  color: #00b480;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+/* line 74, stylesheet.scss */
+ul {
+  list-style: none;
+}
+
+/* line 78, stylesheet.scss */
+body {
+  background: #E3E3E1;
+}
+
+/* line 88, stylesheet.scss */
+.mobileHeader {
+  width: 100%;
+  visibility: hidden;
+}
+
+/* line 94, stylesheet.scss */
+.mobileNav {
+  text-align: center;
+  width: 100%;
+  position: fixed;
+  z-index: 99999;
+  visibility: hidden;
+  top: 0;
+}
+/* line 103, stylesheet.scss */
+.mobileNav ul {
+  width: 100%;
+  background: #00B480;
+  margin: 0;
+  padding: 1%;
+}
+/* line 109, stylesheet.scss */
+.mobileNav ul li {
+  display: inline-block;
+  padding: 3%;
+}
+/* line 113, stylesheet.scss */
+.mobileNav ul li a {
+  padding: 30% 3%;
+  text-decoration: none;
+  color: white;
+  font-size: 1.7rem;
+}
+/* line 119, stylesheet.scss */
+.mobileNav ul li a:hover {
+  color: black;
+}
+
+/* line 127, stylesheet.scss */
+.mobileLogo {
+  padding: 1%;
+  background: black;
+  text-align: center;
+  position: absolute;
+  top: 4%;
+  width: 100%;
+  padding-top: 52px;
+}
+/* line 136, stylesheet.scss */
+.mobileLogo .mobileJourneyLogo {
+  width: 160px;
+  z-index: 8999;
+}
+
+/* line 144, stylesheet.scss */
+.leftSide {
+  padding: 2% 12% 2% 5%;
+  background: white;
+  float: left;
+  width: 66.66%;
+}
+
+/* line 155, stylesheet.scss */
+nav ul {
+  padding: 2px 2px 36px 2px;
+}
+/* line 159, stylesheet.scss */
+nav ul li {
+  display: inline-block;
+  font-size: 16px;
+  padding: 0 10px 0 0;
+}
+
+/* line 168, stylesheet.scss */
+.intro {
+  line-height: 1.7;
+  padding-top: 2%;
+}
+
+/* line 175, stylesheet.scss */
+.team1 {
+  width: 100%;
+  padding: 0;
+  margin: 0 2% 0 0;
+  vertical-align: top;
+}
+/* line 181, stylesheet.scss */
+.team1 a {
+  margin: 0;
+  color: #414042;
+}
+
+/* line 187, stylesheet.scss */
+.master {
+  float: left;
+  width: 48%;
+  margin: 0 1.5% 3% 0%;
+}
+/* line 192, stylesheet.scss */
+.master img {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+/* line 199, stylesheet.scss */
+.team1 a {
+  display: block;
+}
+
+/* line 203, stylesheet.scss */
+.Team2 {
+  margin: 0 0 3% 0%;
+  padding: 0;
+  font-size: 0;
+  vertical-align: top;
+}
+/* line 209, stylesheet.scss */
+.Team2 h4 {
+  color: #414042;
+}
+/* line 213, stylesheet.scss */
+.Team2 li {
+  display: inline-block;
+  vertical-align: top;
+  width: 33%;
+  padding-right: 1%;
+}
+/* line 219, stylesheet.scss */
+.Team2 li img {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+/* line 227, stylesheet.scss */
+.Team2 p a {
+  display: block;
+}
+
+/* line 231, stylesheet.scss */
+.biohover {
+  position: relative;
+  margin: 0;
+}
+/* line 235, stylesheet.scss */
+.biohover a.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background: rgba(255, 255, 255, 0.7);
+  text-align: center;
+  font-size: 2.6rem;
+  padding-top: 30%;
+  opacity: 0;
+  transition: opacity 0.3s;
+  color: black;
+}
+/* line 250, stylesheet.scss */
+.biohover:hover a.overlay {
+  opacity: 1;
+}
+
+/* line 256, stylesheet.scss */
+ol {
+  font-size: 6rem;
+  margin-left: 36px;
+}
+/* line 260, stylesheet.scss */
+ol h3 {
+  color: #414042;
+  font-size: 2.6rem;
+  position: absolute;
+  bottom: 10%;
+}
+/* line 268, stylesheet.scss */
+ol li {
+  position: relative;
+}
+
+/* line 275, stylesheet.scss */
+input[value].submit {
+  width: 130px;
+  background: #00B480;
+  color: white;
+  padding: 10px;
+  margin-top: 17px;
+}
+
+/* line 285, stylesheet.scss */
+input {
+  border: none;
+  border-bottom: 1px solid #797b7e;
+  width: 100%;
+  padding: 15px 0 5px 0;
+  font-family: 'helveticaneuelight', sans-serif;
+  font-weight: normal;
+  font-size: 2.6rem;
+  color: #B0B2B4;
+  margin: 0 0 10px 0;
+}
+/* line 296, stylesheet.scss */
+input:focus {
+  outline: none;
+  border-bottom: 1px solid #00B480;
+}
+
+/* line 302, stylesheet.scss */
+input[value] {
+  color: #B0B2B4;
+}
+/* line 305, stylesheet.scss */
+input[value]:focus {
+  color: #00B480;
+}
+
+/* line 310, stylesheet.scss */
+textarea {
+  width: 100%;
+  border: 1px solid black;
+  font-size: 2rem;
+  color: black;
+}
+
+/* line 318, stylesheet.scss */
+label {
+  font-family: 'helveticaneuelight', sans-serif;
+  font-weight: normal;
+  font-size: 2.6rem;
+  color: #B0B2B4;
+  margin: 0 0 10px 0;
+  line-height: 2.7;
+}
+
+/* line 333, stylesheet.scss */
+.rightSidebar {
+  width: 33.33%;
+  background: grey;
+  float: right;
+}
+/* line 342, stylesheet.scss */
+.rightSidebar h3, .rightSidebar h4 {
+  color: white;
+}
+/* line 347, stylesheet.scss */
+.rightSidebar ul {
+  padding: 0;
+  margin: 0;
+}
+/* line 351, stylesheet.scss */
+.rightSidebar ul li {
+  padding: 5% 6%;
+  width: 100%;
+}
+/* line 355, stylesheet.scss */
+.rightSidebar ul li:first-child {
+  background: #549566;
+}
+/* line 359, stylesheet.scss */
+.rightSidebar ul li:nth-child(2) {
+  background: #4f8510;
+}
+/* line 363, stylesheet.scss */
+.rightSidebar ul li:nth-child(3) {
+  background: #80a94e;
+}
+/* line 367, stylesheet.scss */
+.rightSidebar ul li:nth-child(4) {
+  background: #4b8256;
+}
+/* line 371, stylesheet.scss */
+.rightSidebar ul li:nth-child(5) {
+  background: #73ae80;
+}
+/* line 376, stylesheet.scss */
+.rightSidebar ul li:nth-child(6) {
+  background: #e3e3e1;
+}
+/* line 379, stylesheet.scss */
+.rightSidebar ul li:nth-child(6) h3, .rightSidebar ul li:nth-child(6) h4 {
+  color: #6d6e71;
+}
+
+/* line 389, stylesheet.scss */
+.icon {
+  fill: white;
+  padding: 1.5% 0;
+}
+
+/* line 395, stylesheet.scss */
+.sidebarHero {
+  background-image: url(images/hero.jpg);
+  height: 1080px;
+  padding: 2% 5%;
+  position: relative;
+}
+/* line 401, stylesheet.scss */
+.sidebarHero h4 {
+  position: absolute;
+  bottom: 10px;
+}
+
+/* line 407, stylesheet.scss */
+.footer {
+  width: 100%;
+}
+
+/* line 411, stylesheet.scss */
+.contact {
+  float: left;
+  width: 66.66%;
+  background: white;
+  padding: 2% 12% 2% 5%;
+}
+
+/* line 419, stylesheet.scss */
+.join {
+  padding: 0 5%;
+  background: #e3e3e1;
+  float: right;
+  width: 33%;
+}
+/* line 426, stylesheet.scss */
+.join h4, .join p {
+  color: black;
+  line-height: 1.4;
+  padding-top: 8px;
+  margin: 0;
+}
+/* line 433, stylesheet.scss */
+.join img {
+  width: 100px;
+  padding-top: 27%;
+}
+
+@media (max-width: 900px) {
+  /* line 444, stylesheet.scss */
+  .leftSide {
+    padding: 2% 5%;
+  }
+}
+@media (max-width: 800px) {
+  /* line 451, stylesheet.scss */
+  .logo {
+    width: 175px;
+  }
+
+  /* line 455, stylesheet.scss */
+  h1 {
+    padding-top: 73px;
+  }
+
+  /* line 459, stylesheet.scss */
+  .leftSide {
+    padding: 4%;
+  }
+
+  /* line 463, stylesheet.scss */
+  .master {
+    width: 100%;
+  }
+
+  /* line 467, stylesheet.scss */
+  .bio2 {
+    width: 100%;
+  }
+
+  /* line 471, stylesheet.scss */
+  input, label {
+    font-size: 2rem;
+  }
+
+  /* line 475, stylesheet.scss */
+  ol {
+    font-size: 3rem;
+    margin-left: 3px;
+  }
+  /* line 479, stylesheet.scss */
+  ol h3 {
+    font-size: 2rem;
+    bottom: -6px;
+  }
+
+  /* line 485, stylesheet.scss */
+  .Team2 {
+    margin-right: 0;
+    padding: 0;
+  }
+  /* line 490, stylesheet.scss */
+  .Team2 li {
+    width: 49.5%;
+    padding: 0;
+  }
+  /* line 495, stylesheet.scss */
+  .Team2 li:nth-child(odd) {
+    margin-right: 1%;
+  }
+  /* line 499, stylesheet.scss */
+  .Team2 li:nth-child(even) {
+    padding: 0;
+  }
+}
+@media (max-width: 650px) {
+  /* line 508, stylesheet.scss */
+  html {
+    font-size: 62.5%;
+  }
+
+  /* line 512, stylesheet.scss */
+  h2 {
+    font-size: 3rem;
+  }
+
+  /* line 516, stylesheet.scss */
+  h2.title {
+    padding-top: 160px;
+  }
+
+  /* line 521, stylesheet.scss */
+  .mobileNav {
+    visibility: visible;
+  }
+
+  /* line 524, stylesheet.scss */
+  .mobileLogo {
+    visibility: visible;
+    z-index: 89999;
+  }
+
+  /* line 529, stylesheet.scss */
+  .leftSide, .rightSidebar {
+    float: none;
+    width: 100%;
+    padding-top: 0;
+  }
+
+  /* line 535, stylesheet.scss */
+  .join {
+    padding: 0 5% 40px 5%;
+  }
+
+  /* line 539, stylesheet.scss */
+  .contact, .join {
+    float: none;
+    width: 100%;
+  }
+
+  /* line 545, stylesheet.scss */
+  .sidebarHero {
+    background-image: url(images/mobileHero.png);
+    background-repeat: no-repeat;
+    height: 296px;
+  }
+  /* line 550, stylesheet.scss */
+  .sidebarHero h4 {
+    color: black;
+  }
+  /* line 554, stylesheet.scss */
+  .sidebarHero .logo {
+    visibility: hidden;
+  }
+
+  /* line 563, stylesheet.scss */
+  .Team2 li:nth-child(odd) {
+    padding: 0;
+  }
+}
+@media (max-width: 480px) {
+  /* line 573, stylesheet.scss */
+  .mobileLogo {
+    padding-top: 36px;
+  }
+}

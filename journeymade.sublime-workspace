@@ -1,0 +1,431 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"it",
+				"italic"
+			],
+			[
+				"font",
+				"font-variant"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "stylesheet.css",
+			"settings":
+			{
+				"buffer_size": 13102,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stylesheet.scss",
+			"settings":
+			{
+				"buffer_size": 8231,
+				"line_ending": "Unix",
+				"name": "s"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 47873,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"startcss",
+				"Snippet: startCSS"
+			],
+			[
+				"clear",
+				"Snippet: +clearfix"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"jq",
+				"Snippet: jquerycdn"
+			],
+			[
+				"syntaxht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"snip",
+				"Snippet: CSSnormalize"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"snippet",
+				"Snippet: CSSnormalize"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Elyse/Data/Dropbox/HackerYou/Projects/ESWeek3Project/images/icon-pair.svg",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Projects/ESWeek3Project/images/logo-journeymade.svg",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Projects/ESWeek3Project/images/icon-knife.svg",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Projects/ESWeek3Project/images/icon-guide.svg",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Projects/ESWeek3Project/StarterStyles.css",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Projects/ESWeek3Project/images/icon-fire.svg",
+		"/Users/Elyse/Downloads/jquery-plugin-exercise 2/jquery-smooth-scroll-master/jquery.smooth-scroll.min.js",
+		"/Users/Elyse/Downloads/client4-journeymade/03 SVG and photos/logo-journeymade-icon.svg",
+		"/Users/Elyse/Downloads/AMIfv96rgzet_64n-0xCtQt-H_cRiOW54SsuaZ89oYJoQNUkNiECysv3cccLuDC-dmr9c52M6Yv61iFlqN-swn7OzgDmfnYLcetdOIrjnT-ERCA9VaKwZbCdkY6Fs8l5IzzCPbZdRbRey3t5BheEf4Ot5mSvaL9LYhNh826tOXRg24I0D3ZtKkE.svg",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Projects/ESWeek3Project/images/icon-compass.svg",
+		"/Users/Elyse/Downloads/AMIfv94dOWV9ISDuGVUArkVYZTnKnL7e4X4JZcSqG2LZWG-6wRbUQIgCQtIya6VgCYtJ2_oSZOh5XFgOIvmaSVOgscvejVRXDPpeUn25DO12LG8y8xdhJPznasStj7jA4v9FK_z4fhXSAbKYoj-mknZ2PvDwwdr1RWXDbrEaJAt7uAponhcbmwE.svg",
+		"/Users/Elyse/Library/Application Support/Sublime Text 3/Packages/User/startCSS.sublime-snippet",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Projects/ESWeek3Project/indexSARAH.html",
+		"/Users/Elyse/Downloads/AMIfv95x2W9oXKuW2C-uMUxNODovnE961ak8S9csRksDGxtzxAWZuMUEvSiGfy8m34DdZOG3nTPNLYzUivKe-z3-sb5bMvTUxm9wxqCA92CAPU4aWtCNdGBF5cGighEABl_Q7z5YVd5vdjzZbJY9Ue_tCKPUHNv6mdWPlU3g2lzRhWL7cKcAX-c.svg",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Projects/ESWeek3Project/stylesheet.css",
+		"/Users/Elyse/Downloads/client4-journeymade/03 SVG and photos/favicon.ico",
+		"/Users/Elyse/Library/Application Support/Sublime Text 3/Packages/User/viewport.sublime-snippet",
+		"/Users/Elyse/Downloads/webfontkit-20140429-161821/stylesheet.css",
+		"/Users/Elyse/Downloads/index.html",
+		"/Users/Elyse/Downloads/inline-svg 2/inline-svg.html",
+		"/Users/Elyse/Downloads/inline-svg 2/images/icon-dog-optimized.svg",
+		"/Users/Elyse/Downloads/inline-svg 2/images/icon-dog.svg",
+		"/Users/Elyse/Downloads/inline-svg 2/images/icon-cat.svg",
+		"/Users/Elyse/Downloads/svg-tags.html",
+		"/Users/Elyse/Downloads/inline-svg/inline-svg.html",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Exercises/polaroid.html",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Projects/ES_Week2Project/style.css",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Projects/ES_Week2Project/index.html",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Projects/ES_Week2Project/CuratedWellness.sublime-project",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Projects/ES_Week2Project/ESProjectWeek2/index.html",
+		"/Users/Elyse/Downloads/responsive-exercises/ex3.html",
+		"/Users/Elyse/Downloads/responsive2.html",
+		"/Users/Elyse/Downloads/responsive-exercises/ex1.html",
+		"/Users/Elyse/Downloads/responsive-exercises/ex2.html",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Projects/ES_Week2Project/CWDifference.html",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Projects/ES_Week2Project/WorkWithCW.html",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Projects/ES_Week2Project/Praise.html",
+		"/Users/Elyse/Downloads/icomoon/style.css",
+		"/Users/Elyse/Downloads/fontello-e12c9b72/css/brandico-ie7-codes.css",
+		"/Users/Elyse/Downloads/dropdown.html",
+		"/Users/Elyse/Downloads/slide-out-nav-START.html",
+		"/Users/Elyse/Downloads/bg-images/bg-images.html",
+		"/Users/Elyse/Downloads/inputs-exercise (1).html",
+		"/Users/Elyse/Downloads/form.html",
+		"/Users/Elyse/Desktop/list-exercises/lists-ex3-centered-nav.html",
+		"/Users/Elyse/Desktop/list-exercises/lists-ex2-easynav.html",
+		"/Users/Elyse/Desktop/list-exercises/lists-ex1-simplenav.html",
+		"/Users/Elyse/Downloads/dropdownANSWER.html",
+		"/Users/Elyse/Downloads/list-style.html",
+		"/Users/Elyse/Downloads/nested-lists.html",
+		"/Users/Elyse/Downloads/simple-nav.html",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Projects/Week1Project/style.css",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Projects/Week1Project/index.html",
+		"/Users/Elyse/Library/Application Support/Sublime Text 3/Packages/User/border-box.sublime-snippet",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Projects/Week1Project/untitled.css",
+		"/Users/Elyse/Downloads/border-box.sublime-snippet",
+		"/Users/Elyse/Downloads/positioning-and-floats/ex1-position-relative.html",
+		"/Users/Elyse/Downloads/position-fixed.html",
+		"/Users/Elyse/Downloads/z-index.html",
+		"/Users/Elyse/Downloads/link-within.html",
+		"/Users/Elyse/Downloads/display.html",
+		"/Users/Elyse/Downloads/position-relative.html",
+		"/Users/Elyse/Downloads/position-absolute.html",
+		"/Users/Elyse/Downloads/position.html",
+		"/Users/Elyse/Library/Application Support/Sublime Text 3/Packages/User/CSSnormalize.sublime-snippet",
+		"/Users/Elyse/Data/Dropbox/HackerYou/CSSNormalize",
+		"/Users/Elyse/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Elyse/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Exercises/Week 1/box model.html",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Exercises/Week 1/CSS margin padding exercise.html",
+		"/Users/Elyse/Data/Dropbox/HackerYou/Exercises/Week 1/wednesday.html",
+		"/Users/Elyse/Data/Dropbox/HackerYou/one page website/index.html",
+		"/Users/Elyse/Data/Dropbox/HackerYou/one page website/onepagestylesheet.css",
+		"/Users/Elyse/Data/Dropbox/HackerYou/one page website/stylesheet.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "stylesheet.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5317,
+								5317
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/cobalt2.tmTheme",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "stylesheet.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7818,
+								7818
+							]
+						],
+						"settings":
+						{
+							"auto_name": "s",
+							"color_scheme": "Packages/User/Color Highlighter/cobalt2.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 9247.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 47873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46911,
+								46911
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/cobalt2.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 16864.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.485456942797,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "journeymade.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
